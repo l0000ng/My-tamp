@@ -196,4 +196,4 @@ makeMove(dragEl.get(0));
     });
         queryMyFunds();
     }
-})
+})()
